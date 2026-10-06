@@ -6,7 +6,6 @@ Informatik-Student mit Fokus auf **Cyber Security**, **Netzwerktechnik** und **A
 
 ### 🚀 Aktuelle Aktivitäten & Lernpfade
 - 🛡️ **Cyber Security:** Practical Hands-On mit TryHackMe (Pre Security & Web Fundamentals)
-- 👁️ **AI Project:** Sign Language Translator mit Python & MediaPipe
 - 🌐 **Netzwerke:** Vertiefung von IPv4/IPv6-Segmentierung und Protokollanalyse (Wireshark)
 
 ---
@@ -19,7 +18,7 @@ Informatik-Student mit Fokus auf **Cyber Security**, **Netzwerktechnik** und **A
 | **GUI & 3D** | JavaFX / JavaFX 3D, Java Swing |
 | **Netzwerk & Security** | IPv4 / IPv6, Wireshark, Subnetting, TryHackMe |
 | **Software Engineering** | Git, UML, Clean Code, OOP Wrapper Design, Logging |
-| **Datenbanken & Tools** | SQL, Linux, SUMO Mobility Engine, TraaS API |
+| **Datenbanken & Tools** | SQL, Linux, TraaS API |
 
 ---
 
